@@ -6,7 +6,7 @@ to install:
 2. unzip this folder
 3. move the folder into ~/Library/Application Support/Übersicht/widgets/
    * either by clicking the übersicht logo up top and clicking "open widget folder"
-   * OR open finder, shift + cmd + G and search widgets to get the folder
+   * OR open finder, shift + cmd + G and search "~/Library/Application Support/Übersicht/widgets" to get the folder
 5. open übersicht and enable the widget
 6. click to add a song
 7. it will prompt you to download python pls download it idk how to make it not necessary yet
