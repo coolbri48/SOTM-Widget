@@ -3,12 +3,12 @@ hi this is my SOTM widget
 
 to install:
 1. install Übersicht (https://tracesof.net/uebersicht/)
-2. unzip this folder
-3. move the folder into ~/Library/Application Support/Übersicht/widgets/
-   * either by clicking the übersicht logo up top and clicking "open widget folder"
-   * OR open finder, shift + cmd + G and search "~/Library/Application Support/Übersicht/widgets" to get the folder
+2. move the folder into ~/Library/Application Support/Übersicht/widgets/
+   * open finder, shift + cmd + G and search "~/Library/Application Support/Übersicht/widgets" to get the folder
+   * OR open übersicht app and click the übersicht logo up top and select "open widget folder"
+3. unzip the file (right click and select open)
 5. open übersicht and enable the widget
-6. click to add a song
+6. click ▶Ⅱ to add a song
 7. it will prompt you to download python pls download it idk how to make it not necessary yet
 
 controls:
