@@ -18,6 +18,12 @@ controls:
 - MENU will open the displayed month spotify playlist (if you put a link to it)
 - ◀ and ▶ go between months
 - the center button will let you edit or delete the displayed month entry
+    * if MacOS blocks SongEditor:
+        * go to system settings -> privacy and security
+        * you should see, towards the bottom a notification like "'SongEditor' was blocked because it is not from an identified developer."
+        * click "open anyway"
+        * click to edit again, it will ask one more time
+        * click open, and it should work!
 
 for album cover:
 
