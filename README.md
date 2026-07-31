@@ -5,7 +5,9 @@ to install:
 1. install Übersicht (https://tracesof.net/uebersicht/)
 2. unzip this folder
 3. move the folder into ~/Library/Application Support/Übersicht/widgets/
-4. open übersicht and enable the widget
+   * either by clicking the übersicht logo up top and clicking "open widget folder"
+   * OR open finder, shift + cmd + G and search widgets to get the folder
+5. open übersicht and enable the widget
 
 controls:
 - drag the iPod to move it
