@@ -8,6 +8,8 @@ to install:
    * either by clicking the übersicht logo up top and clicking "open widget folder"
    * OR open finder, shift + cmd + G and search widgets to get the folder
 5. open übersicht and enable the widget
+6. click to add a song
+7. it will prompt you to download python pls download it idk how to make it not necessary yet
 
 controls:
 - drag the iPod to move it
