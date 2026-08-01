@@ -33,3 +33,4 @@ for album cover:
 notes:
 - dont rename the "SOTM iPod Widget" or else it will break :(
 - spotify has to be downloaded for playlists to open directly in the app
+- go to settings and select Übersicht to start at login so the widget stays when you turn off ur mac
